@@ -1,22 +1,12 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  1. HERO BANNER                                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO BANNER -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAVEENKUMAR%20BALAKRISHNAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)](https://github.com/praveen835)
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAVEENKUMAR%20BALAKRISHNAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)](https://github.com/praveenkumar)
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  2. TYPING HEADER                                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+Data+Science+Enthusiast;%F0%9F%90%8D+Python+%7C+ML+%7C+Web+Dev;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%9A%80+B.Tech+Student+%40+KGISL+%7C+CGPA+8.93)](https://git.io/typing-svg)
+<!-- TYPING HEADER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+Data+Science+Enthusiast;%F0%9F%90%8D+Python+%7C+ML+%7C+Web+Dev;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%9A%80+B.Tech+%40+KGISL+%7C+CGPA+8.93)](https://git.io/typing-svg)
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  3. CODE-BLOCK ABOUT ME                                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ```python
 class PraveenKumar:
@@ -58,10 +48,6 @@ print(me.motto())
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  4. TECH BADGES                                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 🧠 Languages
@@ -94,66 +80,46 @@ print(me.motto())
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  5 & 6. GITHUB STATS + TOP LANGUAGES                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveenkumar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praveen835&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen835&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  7. STREAK STATS                                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=praveenkumar&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=praveen835&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  8. ACTIVITY GRAPH                                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 📊 Contribution Activity
 
-[![Praveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenkumar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Praveen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveen835&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  9. TROPHY WALL                                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=praveenkumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=praveen835&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  10. WORK EXPERIENCE                                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💼 Experience
 
@@ -171,10 +137,6 @@ print(me.motto())
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  11. FEATURED PROJECTS                                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -188,10 +150,6 @@ print(me.motto())
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  12. ACHIEVEMENTS                                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🏅 Achievements & Stats
 
@@ -208,10 +166,6 @@ print(me.motto())
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  13. EDUCATION + CURRENTLY LEARNING + FOOTER              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
@@ -243,12 +197,12 @@ print(me.motto())
 
 [![Email](https://img.shields.io/badge/Email-praveenwinner143%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:praveenwinner143@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praveenkumar%20Balakrishnan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveenkumar-balakrishnan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveenkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-praveen835-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/praveen835)
 [![Location](https://img.shields.io/badge/📍-Coimbatore%2C%20India-28A745?style=flat-square)](https://maps.google.com/?q=Coimbatore,India)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=praveenkumar&color=70A5FD&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=praveen835&color=70A5FD&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -258,6 +212,6 @@ print(me.motto())
 
 > *"Data tells stories — I just make sure they're worth listening to."*
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/praveenkumar)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/praveen835)
 
 </div>
