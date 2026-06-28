@@ -1,10 +1,27 @@
 <div align="center">
 
-<!-- HERO BANNER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAVEENKUMAR%20BALAKRISHNAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=62&descSize=16)](https://github.com/praveen835)
+<!-- HERO BANNER — using svg directly, no external image service -->
+<svg width="100%" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1b4b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="180" fill="url(#grad)" rx="0"/>
+  <text x="50%" y="80" font-family="monospace" font-size="32" font-weight="bold"
+        fill="#ffffff" text-anchor="middle" dominant-baseline="middle">
+    PRAVEENKUMAR BALAKRISHNAN
+  </text>
+  <text x="50%" y="120" font-family="monospace" font-size="15"
+        fill="#70A5FD" text-anchor="middle" dominant-baseline="middle">
+    AI &amp; Data Science Engineer | Building Intelligent Systems
+  </text>
+</svg>
 
 <!-- TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+Data+Science+Enthusiast;%F0%9F%90%8D+Python+%7C+ML+%7C+Web+Dev;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%9A%80+B.Tech+%40+KGISL+%7C+CGPA+8.93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%A4%96+AI+%26+Data+Science+Enthusiast;%F0%9F%90%8D+Python+%7C+ML+%7C+Web+Dev;%F0%9F%93%8A+Turning+Data+into+Decisions;%F0%9F%9A%80+B.Tech+%40+KGISL+%7C+CGPA+8.93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -212,6 +229,17 @@ print(me.motto())
 
 > *"Data tells stories — I just make sure they're worth listening to."*
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/praveen835)
+<!-- FOOTER WAVE -->
+<svg width="100%" height="80" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 80" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#1a1b4b"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#footerGrad)"
+    d="M0,40 C240,80 480,0 720,40 C960,80 1200,0 1440,40 L1440,80 L0,80 Z"/>
+</svg>
 
 </div>
